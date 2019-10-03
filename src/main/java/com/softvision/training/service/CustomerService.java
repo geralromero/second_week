@@ -27,8 +27,8 @@ public class CustomerService {
      *@param_customerId
      *@return **/
 
-    public Optional<Customer> getCustomer(long customerId) {
-        return customerRepository.findById(customerId);
+    public Customer getCustomer(long customerId) {
+        return customerRepository.findById(customerId).get();
 
     } /**Preguntar aqui porque Optional **/
 
