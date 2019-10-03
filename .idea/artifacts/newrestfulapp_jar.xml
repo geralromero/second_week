@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="newrestfulapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/newrestfulapp_jar</output-path>
+    <root id="archive" name="newrestfulapp_jar.jar">
+      <element id="archive" name="newrestfulapp.jar">
+        <element id="module-output" name="newrestfulapp" />
+      </element>
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:5.1.9.RELEASE" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.6.RELEASE" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.1.9.RELEASE" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.5" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.5" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.1.9.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
