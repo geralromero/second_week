@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: softvision.training.restful.App
-Class-Path: spring-core-4.3.6.RELEASE.jar spring-context-5.1.9.RELEASE.j
- ar commons-logging-1.2.jar spring-web-4.3.6.RELEASE.jar jackson-annotat
- ions-2.9.0.jar spring-aop-5.1.9.RELEASE.jar jackson-core-2.9.5.jar jack
- son-databind-2.9.5.jar spring-webmvc-4.3.6.RELEASE.jar spring-expressio
- n-5.1.9.RELEASE.jar spring-beans-5.1.9.RELEASE.jar
-
