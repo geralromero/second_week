@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Main-Class: softvision.training.config.AppConfig
+Main-Class: com.softvision.training.config.AppConfig
 Class-Path: spring-core-4.3.6.RELEASE.jar spring-context-5.1.9.RELEASE.j
  ar commons-logging-1.2.jar spring-web-4.3.6.RELEASE.jar jackson-annotat
  ions-2.9.0.jar spring-aop-5.1.9.RELEASE.jar jackson-core-2.9.5.jar jack
